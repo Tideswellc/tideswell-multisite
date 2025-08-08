@@ -1,0 +1,24 @@
+{
+  "key": "soccerdealsdaily",
+  "name": "Soccer Deals Daily",
+  "domain": "soccerdealsdaily.com",
+  "colors": {
+    "primary": "#2ecc71",
+    "background": "#0a0a0a",
+    "text": "#ffffff",
+    "accent": "#1f1f1f"
+  },
+  "logoText": "Soccer Deals Daily",
+  "tagline": "Daily steals on boots, kits, and gear",
+  "brandFilters": [
+    "Nike",
+    "Adidas",
+    "Puma"
+  ],
+  "social": {
+    "x": true,
+    "instagram": true,
+    "tiktok": true,
+    "facebook": true
+  }
+}

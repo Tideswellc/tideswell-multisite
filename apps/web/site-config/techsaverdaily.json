@@ -1,0 +1,26 @@
+{
+  "key": "techsaverdaily",
+  "name": "Tech Saver Daily",
+  "domain": "techsaverdaily.com",
+  "colors": {
+    "primary": "#1e90ff",
+    "background": "#0b1320",
+    "text": "#ffffff",
+    "accent": "#111827"
+  },
+  "logoText": "Tech Saver Daily",
+  "tagline": "Best daily deals in consumer tech",
+  "brandFilters": [
+    "Apple",
+    "Samsung",
+    "Sony",
+    "Dell",
+    "Lenovo"
+  ],
+  "social": {
+    "x": true,
+    "instagram": true,
+    "tiktok": true,
+    "facebook": true
+  }
+}
